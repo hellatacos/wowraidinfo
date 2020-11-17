@@ -3,5 +3,5 @@ Resources to pump.
 
 ## Roadmap
 
-[] Aggregate information
-[] Automate output
+ - [ ] Aggregate information
+ - [ ] Automate output
